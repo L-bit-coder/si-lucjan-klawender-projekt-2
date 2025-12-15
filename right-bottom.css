@@ -1,0 +1,18 @@
+div.content > button > img {
+  height: 125px;
+}
+
+div.content {
+  display: flex;
+  flex-direction: row;
+}
+
+div.content > button.best {
+  background-color: rgb(67, 67, 200);
+  border: none;
+}
+
+div.content > button {
+  background-color: rgb(255, 255, 255);
+  border: none;
+}
