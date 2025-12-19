@@ -11,6 +11,7 @@ div.content > button > img {
 div.content {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 div.content > button.best {
