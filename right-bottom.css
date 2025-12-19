@@ -1,3 +1,9 @@
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 div.content > button > img {
   height: 125px;
 }
