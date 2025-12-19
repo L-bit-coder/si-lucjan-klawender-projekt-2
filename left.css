@@ -22,6 +22,7 @@ div.left {
 div.left > div.left1 {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 div.left > div.left2 {
